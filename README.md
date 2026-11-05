@@ -1,16 +1,43 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Flavoss/Flavoss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ☾ Flavoss
 
-Here are some ideas to get you started:
+### *Caçador de projetos na noite de Yharnam* 🩸
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Explorando projetos que curto, organizando ferramentas para usar no meu PC
+e preparando o terreno para criar e compartilhar os meus próprios projetos.
+
+</div>
+
+---
+
+## 🕯️ Sobre mim
+
+- 🎯 Estou estudando e descobrindo projetos interessantes para experimentar.
+- 🖥️ Uso o GitHub para organizar o que quero instalar, testar e aprender no meu PC.
+- 🌱 Quero começar a publicar meus próprios projetos por aqui.
+- 🩸 Fã de **Bloodborne** e da atmosfera sombria de Yharnam.
+
+## 📦 Projetos que estou explorando
+
+> Espaço para destacar repositórios que encontrei, adaptei ou quero experimentar.
+
+- **Em breve** — vou adicionar aqui os projetos que mais gostei e algumas notas sobre eles.
+
+## ⚙️ Meus projetos
+
+> Este espaço vai crescer junto com os projetos que eu criar.
+
+- **Em breve** — primeiros projetos próprios.
+
+## 🌙 Fora do código
+
+**Bloodborne** · [adicione aqui outros jogos, músicas e interesses]
+
+---
+
+<div align="center">
+
+*May you find your worth in the waking world.*
+
+</div>
