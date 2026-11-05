@@ -9,7 +9,7 @@ e preparando e estudando para criar e compartilhar os meus próprios projetos fu
 
 ---
 
-## 🕯️ Sobre mim
+## Sobre mim
 
 - Estou estudando e descobrindo projetos interessantes para experimentar.
 - Uso o GitHub para organizar o que quero instalar, testar e aprender no meu PC.
