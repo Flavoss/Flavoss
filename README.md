@@ -30,10 +30,6 @@ e preparando o terreno para criar e compartilhar os meus próprios projetos.
 
 - **Em breve** — primeiros projetos próprios.
 
-## 🌙 Fora do código
-
-**Bloodborne** · [adicione aqui outros jogos, músicas e interesses]
-
 ---
 
 <div align="center">
